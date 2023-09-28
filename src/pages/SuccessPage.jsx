@@ -1,6 +1,5 @@
 import React from "react";
 import logo from "../photo/Logo_Vetor_Aiyl_Bank_2.png";
-import success from "../photo/success-icon-10.png";
 
 const SuccessPage = () => {
   return (

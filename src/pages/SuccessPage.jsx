@@ -13,7 +13,7 @@ const SuccessPage = () => {
       }}
     >
       <div style={{ margin: "12px" }}>
-        <img className="logo" src={logo} style={{ width: "200px" }} />
+        <img src={logo} alt="logo" className="logo"  style={{ width: "200px" }} />
       </div>
       <div class="notifications-container">
         <div class="success">

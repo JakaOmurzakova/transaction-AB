@@ -6,8 +6,8 @@ import UnsuccessPage from "../pages/UnsuccessPage";
 const MainRoute = () => {
   return (
     <Routes>
-      <Route path="/" element={<SuccessPage />} />
-      <Route path="/un" element={<UnsuccessPage />} />
+      <Route path="/success" element={<SuccessPage />} />
+      <Route path="/failed" element={<UnsuccessPage />} />
     </Routes>
   );
 };
